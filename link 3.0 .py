@@ -1,6 +1,8 @@
 import re
 import time
 import clipboard
+a= input("chapter = ")
+print(a)
 
 counter = 1  # Initialize counter to 1
 previous_link = ""
